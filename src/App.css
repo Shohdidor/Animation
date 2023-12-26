@@ -1,0 +1,16 @@
+.Boom {
+    background-image: url("img/image (5).png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    margin-top: 50px;
+}
+.End {
+    background-image: url("img/IMAGE (7).png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    margin-top: 50px;
+}
